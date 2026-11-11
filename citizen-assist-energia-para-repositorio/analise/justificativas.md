@@ -1,6 +1,6 @@
 # Justificativas das recomendações
 
-Os números abaixo são os do cenário-base gerado por `python -m src.energia.relatorio` (ver `comparacao.md`). Se os dados da pasta `dados/` mudarem, os valores mudam e este texto deve ser revisado.
+Os números abaixo são os do cenário-base gerado por `python -m src.energia.relatorio` (ver `comparacao.md`). 
 
 ## Recomendação 1: começar pela eficiência (alternativa A)
 
