@@ -1,7 +1,7 @@
 # Comparação das alternativas
 
-> Arquivo gerado por `python -m src.energia.relatorio`. Não edite à mão: altere os arquivos da pasta `dados/` e gere de novo.
-> **Todos os dados são estimados** (ver `dados/FONTES_E_PREMISSAS.md`). Os resultados não são garantia de economia.
+> Arquivo gerado por `python -m src.energia.relatorio`. 
+> **Todos os dados são estimados** (ver `dados/FONTES_E_PREMISSAS.md`). 
 
 ## Necessidade analisada
 
