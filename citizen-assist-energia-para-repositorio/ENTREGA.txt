@@ -1,13 +1,1 @@
-GLOBAL SOLUTION 2026 - CITIZEN ASSIST AI
-Disciplina: Soluções em Energias Renováveis e Sustentáveis
 
-INTEGRANTES (nome completo e RM):
-1. NOME COMPLETO - RM 000000
-2. NOME COMPLETO - RM 000000
-3. NOME COMPLETO - RM 000000
-
-REPOSITORIO NO GITHUB:
-https://github.com/USUARIO/REPOSITORIO
-
-VIDEO NO YOUTUBE (nao listado):
-https://youtu.be/XXXXXXXXXXX
