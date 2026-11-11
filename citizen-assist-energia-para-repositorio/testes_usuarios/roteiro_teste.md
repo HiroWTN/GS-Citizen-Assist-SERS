@@ -37,14 +37,3 @@ Pedir que a pessoa pergunte com as próprias palavras. Registrar também as perg
 4. A resposta ajuda a decidir alguma coisa? O quê?
 5. Faltou alguma informação?
 
-## Perguntas finais
-
-1. A ordem Resposta, Como calculei, Limitações e Fontes é boa de acompanhar?
-2. Você confiaria nessa orientação? O que faria você confiar mais?
-3. O que mudaria primeiro?
-
-## Como registrar
-
-- Preencher uma linha de `registros.md` por tarefa e por participante.
-- Cada mudança feita no assistente por causa de um comentário vai para `ajustes.md`, ligada ao registro que a motivou.
-- Se uma pessoa não quiser que algo seja registrado, não registrar.
