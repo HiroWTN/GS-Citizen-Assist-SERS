@@ -1,0 +1,8 @@
+id,nome,categoria,quantidade,potencia_w,horas_dia,dias_mes,standby_w,palavras_chave,origem,estimado
+iluminacao_fluorescente,Lâmpada fluorescente tubular com reator,iluminacao,24,40,10,26,0,lampada;luz;iluminacao;fluorescente,Valor típico de mercado (lâmpada de 32 W mais reator). Conferir etiqueta,sim
+computador_leitor_tela,Computador com leitor de tela (CPU e monitor),informatica,8,100,6,26,3,computador;pc;notebook;leitor de tela,Estimativa típica de uso. Medir com wattímetro,sim
+lupa_eletronica,Lupa eletrônica de mesa (vídeo-ampliador),assistivo,4,35,4,26,2,lupa;ampliador;video ampliador,Estimativa. Conferir manual do fabricante,sim
+impressora_braille,Impressora braille,assistivo,1,80,2,26,3,impressora;braille,Estimativa. Conferir manual do fabricante,sim
+carregadores,Carregadores (celulares e linhas braille),assistivo,10,10,3,26,0.5,carregador;celular;linha braille,Estimativa típica,sim
+ventiladores,Ventilador,climatizacao,6,60,6,26,0,ventilador;ventilacao,Estimativa típica,sim
+geladeira,Geladeira e bebedouro (potência média),copa,1,70,24,30,0,geladeira;bebedouro;refrigerador,Estimativa de cerca de 50 kWh por mês. Conferir etiqueta Procel/ENCE,sim

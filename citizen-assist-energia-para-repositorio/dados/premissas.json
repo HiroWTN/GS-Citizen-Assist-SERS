@@ -1,0 +1,51 @@
+{
+  "contexto": {
+    "descricao": "Espaço comunitário de apoio a pessoas com deficiência visual (cenário-base hipotético)",
+    "cidade": "São Paulo - SP",
+    "funcionamento": "segunda a sábado, das 8h às 18h (10 horas por dia, 26 dias por mês)",
+    "_estimado": true,
+    "_origem": "Cenário construído pelo grupo para o estudo. Deve ser substituído pelos dados reais do espaço atendido (fatura e inventário de equipamentos) sempre que possível."
+  },
+  "tarifa": {
+    "valor_rs_kwh": 0.95,
+    "_estimado": true,
+    "_origem": "VALOR PROVISÓRIO. Substituir pelo valor real da fatura (tarifa final com impostos, em R$/kWh). A ANEEL aprovou reajuste médio de 10,18% para a Enel SP a partir de 4/7/2026, então valores antigos estão desatualizados."
+  },
+  "rede": {
+    "custo_disponibilidade_kwh": 100,
+    "_estimado": true,
+    "_origem": "Mínimo faturável por tipo de ligação: 30 kWh (monofásico), 50 kWh (bifásico) e 100 kWh (trifásico), conforme regras da ANEEL. Foi assumida ligação trifásica; conferir na fatura."
+  },
+  "eficiencia": {
+    "led_tubular_potencia_w": 20,
+    "led_custo_unitario_rs": 30,
+    "led_mao_de_obra_rs": 10,
+    "tomada_inteligente_custo_rs": 70,
+    "tomada_inteligente_autoconsumo_w": 1,
+    "tomadas_inteligentes_quantidade": 6,
+    "_estimado": true,
+    "_origem": "Valores típicos de mercado e de fichas técnicas. Conferir fluxo luminoso (lúmens) da lâmpada LED escolhida para que seja equivalente ao da fluorescente substituída. Orçamento real deve substituir os preços."
+  },
+  "solar": {
+    "hsp_kwh_m2_dia": 4.6,
+    "desempenho_pr": 0.78,
+    "custo_rs_por_wp": 4.5,
+    "manutencao_anual_rs": 300,
+    "degradacao_anual": 0.005,
+    "desconto_compensacao": 0.15,
+    "_estimado": true,
+    "_origem": "HSP (horas de sol pleno): ordem de grandeza para São Paulo, conferir no CRESESB (SunData) com a coordenada do local. PR (desempenho global) de 0,75 a 0,80 é típico. Custo por Wp e manutenção: estimativas, substituir por orçamentos. Degradação de 0,5% ao ano é típica de módulos. O desconto de compensação representa de forma simplificada o efeito do Fio B (Lei 14.300/2022) sobre o valor da energia compensada e depende da distribuidora e do ano de protocolo."
+  },
+  "economia": {
+    "horizonte_anos": 10,
+    "reajuste_tarifa_anual": 0.05,
+    "_estimado": true,
+    "_origem": "Horizonte de referência comum às alternativas. O reajuste anual da tarifa é hipótese do grupo e deve ser testado na análise de sensibilidade."
+  },
+  "emissoes": {
+    "fator_rede_kgco2_kwh": 0.0385,
+    "fator_ciclo_vida_fv_kgco2_kwh": 0.041,
+    "_estimado": false,
+    "_origem": "Fator médio do SIN em 2023 de 0,0385 tCO2/MWh (MCTI), equivalente a 0,0385 kg CO2/kWh. O fator muda a cada ano e o MCTI alterou a metodologia em 2025. Emissões do ciclo de vida de solar em telhado: mediana de cerca de 41 g CO2/kWh (IPCC AR5, 2014). Conferir séries mais recentes."
+  }
+}
