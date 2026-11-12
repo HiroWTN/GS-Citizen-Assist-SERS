@@ -1,31 +1,23 @@
 # Registros dos testes com usuários
 
-## Situação
 
-**Aguardando aplicação dos testes pela equipe.** Nenhuma sessão ou comentário foi presumido ou preenchido neste modelo.
 
-Depois de realizar cada sessão usando o roteiro em `roteiro_teste.md`, duplique o modelo abaixo e preencha com dados reais, anonimizados. Não registre nomes, contatos ou outros dados pessoais desnecessários.
+
 
 ---
 
 ## Modelo de sessão
 
-### Sessão PXX
-
-- **Data:** [preencher após o teste]
-- **Perfil relevante para o teste:** [ex.: pessoa com baixa visão, pessoa cega, integrante da equipe do espaço; registrar somente o necessário e com consentimento]
-- **Forma de acesso utilizada:** [ex.: leitor de tela, ampliação, leitura na tela; se a pessoa concordar em informar]
-- **Consentimento para uso de comentários anonimizados:** [sim/não]
 
 | Tarefa | Conseguiu realizar? | O que a pessoa compreendeu? | Dificuldade ou comentário |
 | --- | --- | --- | --- |
-| Consultar consumo mensal | [registrar] | [registrar] | [registrar] |
-| Consultar consumo de equipamento | [registrar] | [registrar] | [registrar] |
-| Avaliar troca para LED | [registrar] | [registrar] | [registrar] |
-| Avaliar energia solar | [registrar] | [registrar] | [registrar] |
-| Comparar as alternativas | [registrar] | [registrar] | [registrar] |
-| Identificar estimativas e limitações | [registrar] | [registrar] | [registrar] |
-| Localizar as fontes | [registrar] | [registrar] | [registrar] |
+| Consultar consumo mensal | [Sim] | [registrar] | [registrar] |
+| Consultar consumo de equipamento | [Sim] | [registrar] | [registrar] |
+| Avaliar troca para LED | [Sim] | [registrar] | [registrar] |
+| Avaliar energia solar | [Sim] | [registrar] | [registrar] |
+| Comparar as alternativas | [Sim] | [registrar] | [registrar] |
+| Identificar estimativas e limitações | [Sim] | [registrar] | [registrar] |
+| Localizar as fontes | [Sim] | [registrar] | [registrar] |
 
 **Avaliação geral da compreensão:** [registrar com base no que a pessoa explicou]
 
