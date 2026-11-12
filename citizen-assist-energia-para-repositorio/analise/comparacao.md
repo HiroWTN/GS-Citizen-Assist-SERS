@@ -1,7 +1,7 @@
 # Comparação das alternativas
 
 > Arquivo gerado por `python -m src.energia.relatorio`. 
-> **Todos os dados são estimados** (ver `dados/FONTES_E_PREMISSAS.md`). 
+> **Todos os dados são estimados** 
 
 ## Necessidade analisada
 
