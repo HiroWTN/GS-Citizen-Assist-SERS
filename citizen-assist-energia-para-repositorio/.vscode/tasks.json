@@ -1,0 +1,30 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "SERS: executar assistente",
+      "type": "process",
+      "command": "python",
+      "args": ["-m", "src.energia.cli"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true }
+    },
+    {
+      "label": "SERS: executar testes",
+      "type": "process",
+      "command": "python",
+      "args": ["-m", "unittest", "discover", "-s", "tests", "-t", "."],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "SERS: gerar relatório",
+      "type": "process",
+      "command": "python",
+      "args": ["-m", "src.energia.relatorio"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    }
+  ]
+}
