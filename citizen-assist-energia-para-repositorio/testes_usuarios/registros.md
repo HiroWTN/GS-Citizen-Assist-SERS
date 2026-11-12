@@ -9,15 +9,15 @@
 ## Modelo de sessão
 
 
-| Tarefa | Conseguiu realizar? | O que a pessoa compreendeu? | Dificuldade ou comentário |
+| Tarefa | Conseguiu realizar? | O quanto a pessoa compreendeu? | Dificuldade ou comentário |
 | --- | --- | --- | --- |
-| Consultar consumo mensal | [Sim] | [registrar] | [registrar] |
-| Consultar consumo de equipamento | [Sim] | [registrar] | [registrar] |
-| Avaliar troca para LED | [Sim] | [registrar] | [registrar] |
-| Avaliar energia solar | [Sim] | [registrar] | [registrar] |
-| Comparar as alternativas | [Sim] | [registrar] | [registrar] |
-| Identificar estimativas e limitações | [Sim] | [registrar] | [registrar] |
-| Localizar as fontes | [Sim] | [registrar] | [registrar] |
+| Consultar consumo mensal | [Sim] | [Tudo] | [registrar] |
+| Consultar consumo de equipamento | [Sim] | [Tudo] | [registrar] |
+| Avaliar troca para LED | [Sim] | [Parcialmente] | [registrar] |
+| Avaliar energia solar | [Sim] | [Tudo] | [registrar] |
+| Comparar as alternativas | [Sim] | [Parcialmente] | [registrar] |
+| Identificar estimativas e limitações | [Sim] | [Tudo] | [registrar] |
+| Localizar as fontes | [Sim] | [Parcialmente] | [registrar] |
 
 **Avaliação geral da compreensão:** [registrar com base no que a pessoa explicou]
 
