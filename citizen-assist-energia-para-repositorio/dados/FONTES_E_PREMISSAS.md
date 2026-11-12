@@ -1,6 +1,6 @@
 # Dados utilizados: origem, unidades e premissas
 
-**Regra do projeto:** nenhum dado é apresentado como medido. Tudo o que está nesta pasta é **estimado**, vem com a origem indicada e deve ser substituído por dado real (fatura, medição, orçamento) quando o grupo tiver acesso.
+**Regra do projeto:** nenhum dado é apresentado como medido. Tudo o que está nesta pasta é **estimado**
 
 - Período de referência dos cálculos: **1 mês de 30 dias** para consumo e **10 anos** para retorno financeiro.
 - Unidades: potência em watts (W), energia em quilowatts-hora (kWh), sistema solar em quilowatts-pico (kWp), dinheiro em reais (R$), emissões em kg de CO2.
