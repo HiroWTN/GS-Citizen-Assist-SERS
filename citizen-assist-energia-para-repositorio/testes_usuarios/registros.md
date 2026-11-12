@@ -11,13 +11,13 @@
 
 | Tarefa | Conseguiu realizar? | O quanto a pessoa compreendeu? | Dificuldade ou comentário |
 | --- | --- | --- | --- |
-| Consultar consumo mensal | [Sim] | [Tudo] | [registrar] |
-| Consultar consumo de equipamento | [Sim] | [Tudo] | [registrar] |
-| Avaliar troca para LED | [Sim] | [Parcialmente] | [registrar] |
-| Avaliar energia solar | [Sim] | [Tudo] | [registrar] |
-| Comparar as alternativas | [Sim] | [Parcialmente] | [registrar] |
-| Identificar estimativas e limitações | [Sim] | [Tudo] | [registrar] |
-| Localizar as fontes | [Sim] | [Parcialmente] | [registrar] |
+| Consultar consumo mensal | [Sim] | [Tudo] | [Nenhum] |
+| Consultar consumo de equipamento | [Sim] | [Tudo] | [Nenhum] |
+| Avaliar troca para LED | [Sim] | [Parcialmente] | [Nenhum] |
+| Avaliar energia solar | [Sim] | [Tudo] | [Nenhum] |
+| Comparar as alternativas | [Sim] | [Parcialmente] | [Dificuldade na leitura dos dados] |
+| Identificar estimativas e limitações | [Sim] | [Tudo] | [Leitura dificultada] |
+| Localizar as fontes | [Sim] | [Parcialmente] | [Dados de alta complexidade] |
 
 **Avaliação geral da compreensão:** [registrar com base no que a pessoa explicou]
 
